@@ -1,0 +1,36 @@
+{
+	"name": "robotoskunk-theme",
+	"displayName": "RobotoSkunk Theme",
+	"description": "UI theme that RobotoSkunk uses.",
+	"version": "1.0.0",
+	"publisher": "RobotoSkunk",
+	"preview": false,
+	"icon": "icon.png",
+	"author": {
+		"name": "RobotoSkunk",
+		"email": "contact@robotoskunk.com"
+	},
+	"license": "MIT",
+	"engines": {
+		"vscode": "^1.22.0"
+	},
+	"keywords": [
+		"Dark",
+		"RobotoSkunk",
+		"Theme",
+		"Themes"
+	],
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "RobotoSkunk Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/RobotoSkunk Theme-color-theme.json"
+			}
+		]
+	}
+}
+
