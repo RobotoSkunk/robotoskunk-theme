@@ -23,6 +23,11 @@
 	"categories": [
 		"Themes"
 	],
+	"repository": {
+		"url": "https://github.com/RobotoSkunk/robotoskunk-theme.git",
+		"type": "git"
+	},
+	"homepage": "https://github.com/RobotoSkunk/robotoskunk-theme",
 	"contributes": {
 		"themes": [
 			{
